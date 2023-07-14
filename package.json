@@ -1,0 +1,19 @@
+{
+  "name": "lo-extra-o",
+  "description": "Cine de Guerrilla es una productora audiovisual independiente, ubicada en España, con una trayectoria de 12 años, en los cuales hemos finalizado la producción de 10 cortometrajes, un mediometraje, tres obras teatrales y nuestro primer largometraje de ficción Ecos. Con todos ellos hemos tenido la suerte de ser seleccionados y premiados en distintos festivales, tanto nacionales, como internacionales y sobre todo de hacer lo que nos gusta.",
+  "keywords": ["productora audiovisual independiente", "producción de cortometrajes", "producción de mediometrajes", "producción de obras teatrales", "producción de largometraje de ficción"],
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/tailwind": "^4.0.0",
+    "astro": "^2.8.2",
+    "tailwindcss": "^3.0.24"
+  }
+}
